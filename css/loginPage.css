@@ -1,0 +1,81 @@
+/* login form css */
+.signin-page {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    color: black;
+}
+
+.main-login-form {
+    background-color: white;
+    padding: 10px;
+    width: 40%;
+    margin-left: 290px;
+    box-shadow: 10px 10px 10px 10px rgb(243, 246, 247);
+
+    /* box-shadow: 10px 10px 20px whitesmoke; */
+}
+
+.login-form {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.login-btn {
+    background: #076fb0 !important;
+    padding: 8px 25px;
+    margin-top: 20px;
+    width: 80%;
+    text-transform: uppercase;
+    border: none;
+    color: white;
+    display: flex;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+.login-btn:hover {
+    background-color: rgb(210, 210, 2) !important;
+    color: #0866a0;
+}
+
+/* login form */
+.App {
+    background-color: white;
+}
+
+.Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Auth-form {
+    width: 420px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(34, 34, 34);
+    font-weight: 800;
+}
+
+label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+}

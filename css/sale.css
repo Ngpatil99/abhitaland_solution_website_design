@@ -1,0 +1,30 @@
+.sale-card-btn {
+  color: #ffffff;
+  background-color: #c20b0b;
+  border-style: none;
+  padding: 11px 11px;
+  text-align: center;
+  /* border-radius: 5px; */
+}
+
+.sale-card-btn:hover {
+  color: #ffffff;
+  background-color: #15053d;
+  border-style: none;
+  padding: 11px 11px;
+  text-align: center;
+  /* border-radius: 10px; */
+}
+
+.sales-blog-card {
+  width: 100%;
+  height: 400px;
+
+}
+
+@media (max-width: 640px) {
+  .sales-blog-card {
+    width: 280px;
+    margin: 20px 45px;
+  }
+}

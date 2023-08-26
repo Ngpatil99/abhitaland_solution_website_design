@@ -1,0 +1,10 @@
+@media (max-width: 640px) {
+	.contact-text form {
+		width: 90% !important;
+		margin: 0px -29px !important;
+	}
+
+	.ct-image-single img {
+		height: 100px !important;
+	}
+}

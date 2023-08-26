@@ -1,0 +1,110 @@
+.ct-list .ct-list-icon i {
+  color: #c20b0b;
+  font-size: 115%;
+  margin-top: 3px;
+  display: inline-block;
+}
+
+
+
+.counsultaion-form {
+  background-image: url(https://abhitalandsolutions.com/wp-content/uploads/2023/01/white-background-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+
+.contact-blog h5 {
+  color: #e21e26;
+  font-weight: bold;
+  font-family: "Poppins", Sans-serif;
+}
+
+.contact-blog h3 {
+  color: #180c3c;
+  font-weight: 600;
+  font-size: 32px;
+  font-family: "Poppins", Sans-serif;
+}
+
+.ct-list-content {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.contact-text {
+  position: relative;
+  left: 436px;
+  padding: 20px;
+}
+
+.main-contact-text {
+  padding-left: 50px;
+  margin: 50px 0px;
+}
+
+.form-img {
+  max-width: 100%;
+  height: 576px;
+  margin: 20px 0px;
+  padding: 0px 95px;
+}
+
+/* .contact-text form {
+  margin: 0px 11px 0px 0px;
+  width: 50%;
+  padding: 33px 8px;
+  height: 500px;
+  background: #f9f9f9;
+  border-radius: 12px 12px 12px 12px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  box-shadow: 0px 0px 10px 0px #c20b0b;
+} */
+
+.contact-text button {
+  width: auto;
+  font-size: 15px;
+  height: auto;
+  line-height: normal;
+  text-align: center;
+  background: #df1501;
+  border-width: 1px;
+  border-color: #df1501;
+  border-style: solid;
+  color: white;
+  font-weight: normal;
+  /* border-radius: 4px; */
+  text-shadow: none;
+  padding: 10px 20px;
+}
+
+.contact-text button:hover {
+  background-color: gainsboro;
+  color: black;
+}
+
+@media (max-width: 640px) {
+  .contact-text form {
+    width: 100%;
+    height: 520px;
+    margin: 0px -20px !important;
+    padding: 20px 10px !important;
+  }
+
+  .contact-text {
+    position: relative;
+    left: 0px;
+    padding: 0px;
+  }
+
+  .slider-blog {
+    margin-bottom: -92px;
+  }
+
+  .main-concentaion {
+    padding: 20px;
+  }
+
+}

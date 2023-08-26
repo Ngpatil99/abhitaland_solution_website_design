@@ -1,0 +1,90 @@
+.contact-page-form {
+  width: 100%;
+  /* margin: 0px 40px; */
+  padding: 33px 33px;
+  /* height: 516px; */
+  background: white;
+  box-shadow: 0 0px 30px rgba(0, 0, 0, 0.15);
+}
+
+.ct-contact-info {
+  color: #000000;
+  font-size: 15px;
+}
+
+.contact-page form {
+  width: 100%;
+  margin: 20px 0px;
+}
+
+.contact-page-form button {
+  width: auto;
+  font-size: 15px;
+  height: auto;
+  line-height: normal;
+  text-align: center;
+  background: #df1501;
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  font-weight: normal;
+  text-shadow: none;
+  padding: 10px 20px;
+}
+
+.contact-page-form button:hover {
+  background-color: #180c3c;
+  color: white;
+}
+
+.contactus-ourbranches {
+  padding-top: 60px;
+}
+
+/* ************** */
+@media (max-width: 640px) {
+  .get-in-touch {
+    padding: 0px 20px;
+  }
+
+  .contactuspage-text {
+    padding: 20px 20px;
+  }
+
+  .contact-text form {
+    height: 515px;
+    width: 70%;
+    padding: 33px 5px;
+    margin: 24px 57px;
+  }
+
+  .main-getintouch {
+    margin: -75px 0px;
+  }
+
+  .contact-page-form {
+    width: auto !important;
+    margin: 25px !important;
+    padding: 10px !important;
+    background: white;
+    box-shadow: 0 0px 30px rgba(0, 0, 0, 0.15);
+  }
+
+  .contactpage-ourbranches {
+    padding: 0px 0px 0px 0px !important;
+  }
+}
+
+.ct-text-ourbranches h5 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #15053d;
+  text-decoration: underline;
+
+  font-family: 'Libre Caslon Text', sans-serif !important;
+  padding: 20px;
+}
+
+.contactpage-ourbranches {
+  padding: 0px 0px 70px 0px;
+}

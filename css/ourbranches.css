@@ -1,0 +1,102 @@
+.slider-blog h1 {
+  position: relative;
+  text-align: center;
+  bottom: 183px;
+  color: white;
+}
+
+.slider-blog {
+  padding: 45px 0px;
+}
+
+.slider-blog .ourBranches-img {
+  width: 100%;
+  height: 350px;
+}
+
+.main-ourbranches {
+  padding: 0px 0px 70px 0px !important;
+}
+
+.ct-branche1 {
+  padding-left: 26px;
+  position: relative;
+  color: #191919;
+}
+
+.ct-branche1 .ct-branche-title {
+  margin-bottom: 12px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ct-branche1 .ct-branche-title span {
+  display: inline-block;
+  line-height: 29px;
+  padding: 0 25px;
+  color: #c20b0b;
+  background-color: rgba(194, 11, 11, 0.15);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700 !important;
+}
+
+.ct-branche1 {
+  padding-left: 26px;
+  position: relative;
+  color: #191919;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.ct-branche1 .ct-branche-title span:hover {
+  background-color: #e21e26;
+  color: white;
+}
+
+.ct-branche1:before {
+  content: "";
+  height: 100%;
+  width: 1px;
+  background-color: #e6e5e4;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@media (max-width: 640px) {
+  .slider-blog h1 {
+    font-size: 30px !important;
+    text-align: center !important;
+    padding: 17px;
+    position: relative;
+    bottom: 110px;
+    color: white;
+  }
+
+  .slider-blog .ourBranches-img {
+    width: 100%;
+    height: 180px;
+  }
+
+  .our-branches {
+    position: relative;
+    bottom: 70px;
+  }
+
+  .ct-branche1 {
+    margin: 10px 0px;
+  }
+
+  .main-container-ourbranches {
+    position: relative;
+    top: 50px;
+  }
+
+  .main-ourbranches {
+    position: relative;
+    bottom: 74px;
+  }
+
+  .main-ourbranches {
+    padding: 0px 0px 0px 0px !important;
+  }
+}

@@ -1,0 +1,145 @@
+.elementor-6685 .elementor-element.elementor-element-79f1f7dd:not(.elementor-motion-effects-element-type-background),
+.elementor-6685 .elementor-element.elementor-element-79f1f7dd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url(https://demo.casethemes.net/intime/wp-content/uploads/2020/11/bg-content.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+}
+
+.elementor-6685 .elementor-element.elementor-element-79f1f7dd {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 95px 0px 85px 0px;
+}
+
+.elementor-section.elementor-section-stretched {
+  position: relative;
+  width: 100%;
+}
+
+.elementor-element.elementor-element-79af9dc2 .ct-button-wrapper .btn {
+  padding: 0px 33px 0px 33px;
+  /* border-radius: 10px 10px 10px 10px; */
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 53px;
+  margin: 10px;
+}
+
+.elementor-element.elementor-element-692cc2a0 .ct-button-wrapper .btn {
+  padding: 0px 21px 0px 21px;
+  /* border-radius: 10px 10px 10px 10px; */
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 53px;
+  margin: 10px;
+}
+
+.elementor-container .elementor-column-gap-default {
+  padding-top: 50px;
+}
+
+.ct-list .ct-list-icon i {
+  color: #c20b0b;
+  font-size: 115%;
+  margin-top: 3px;
+  display: inline-block;
+}
+
+.counsultaion-form {
+  background-image: url(https://abhitalandsolutions.com/wp-content/uploads/2023/01/white-background.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 840px;
+  width: 100%;
+  margin: 15px 0px;
+}
+
+.contact-blog h5 {
+  color: #e21e26;
+  font-weight: bold;
+}
+
+.contact-blog h3 {
+  color: #180c3c;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.contact-text {
+  position: absolute;
+}
+
+.main-contact-text {
+  padding-left: 50px;
+  margin: 50px 0px;
+  width: 100%;
+}
+
+.form-img {
+  max-width: 100%;
+  height: 576px;
+  margin: 20px 0px;
+  padding: 0px 95px;
+}
+
+.contact-text form {
+  margin: 0px 11px 0px 0px;
+  width: 50%;
+  padding: 33px 33px;
+  height: 660px;
+  background: white;
+  border-radius: 0px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  /* box-shadow: 0px 0px 10px 0px #c20b0b; */
+}
+
+@media (max-width: 640px) {
+  .contact-text form {
+    width: 90%;
+    height: 590px;
+  }
+}
+
+.contact-text button {
+  width: auto;
+  font-size: 15px;
+  height: auto;
+  line-height: normal;
+  text-align: center;
+  background: #df1501;
+  border-width: 1px;
+  border-color: #df1501;
+  border-style: solid;
+  color: white;
+  font-weight: normal;
+  /* border-radius: 4px; */
+  text-shadow: none;
+  padding: 10px 20px;
+}
+
+.contact-text button:hover {
+  background-color: gainsboro;
+  color: black;
+}
+
+.ct-contact-info1 i {
+  font-size: 17px;
+  color: #c20b0b;
+  padding: 5px 0px;
+}
+
+.elementor-6685 .elementor-element.elementor-element-79f1f7dd:not(.elementor-motion-effects-element-type-background),
+.elementor-6685 .elementor-element.elementor-element-79f1f7dd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: #f5f3f0;
+  background-image: url(https://demo.casethemes.net/intime/wp-content/uploads/2020/11/bg-content.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+}
+
+.ct-text-editor .elementor-clearfix {
+  color: #000000 !important;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 30px;
+
+}
